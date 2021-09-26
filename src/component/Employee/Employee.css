@@ -6,6 +6,7 @@ border-radius: 50%;
 }
 .employee-card{
     border: 2px solid cornsilk;
+    border-radius: 20px;
     padding-left: 40px;
     background: rgb(198, 230, 230);
     

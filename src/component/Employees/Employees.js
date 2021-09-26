@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import Employee from '../Employee/Employee';
 import Hire from '../Hire/Hire';
+import People from '../People/People';
 import './Employees.css'
 
 const Employees = () => {
     const [employees, setEmployees] = useState([]);
     const [hire, setHire] = useState([]);
+    const [people, setPeople] = useState([]);
 
     useEffect(() => {
         fetch('./employees.json')
@@ -16,6 +18,8 @@ const Employees = () => {
     const handleAddToCart = (employee) => {
         const newHire = [...hire, employee];
         setHire(newHire);
+        const showPeople = [...people, employee];
+        setPeople(showPeople);
     }
 
     return (
@@ -32,6 +36,9 @@ const Employees = () => {
             </div>
             <div className="hire-container">
                 <Hire hire={hire}></Hire>
+                {
+                    people.map(data => <People data={data}></People>)
+                }
             </div>
         </div>
     );

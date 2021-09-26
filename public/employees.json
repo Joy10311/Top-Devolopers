@@ -88,5 +88,23 @@
         "position": "Principal Applications Agent",
         "salary": "50000",
         "image": "https://image.freepik.com/free-photo/secretary-office_1098-13663.jpg"
+    },
+    {
+        "company": "J-tech",
+        "email": "list17@yahoo.com",
+        "gender": "female",
+        "name": "Ben Trance",
+        "position": "International Factors Planner",
+        "salary": "62000",
+        "image": "https://www.gettaxhub.com/wp-content/uploads/2020/09/busy-caucasian-man-suit-sitting-office-working-computer_1098-20578.jpg"
+    },
+    {
+        "company": "Lineunohow",
+        "email": "sit_shaylee@hotmail.com",
+        "gender": "male",
+        "name": "Prince Ali",
+        "position": "Dynamic Markets Executive",
+        "salary": "65000",
+        "image": "https://img.freepik.com/free-photo/young-man-with-laptop-business-suit-working-office-home-background-window-interviewing-online_163305-4127.jpg?size=626&ext=jpg"
     }
 ]

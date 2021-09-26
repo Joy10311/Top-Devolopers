@@ -1,13 +1,15 @@
 import React from 'react';
 import { SocialIcon } from 'react-social-icons';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faHeadphones } from '@fortawesome/free-solid-svg-icons';
 import './Employee.css'
 
 const Employee = (props) => {
-    const { name, email, gender, position, salary, company, image } = props.employee
+    const { name, email, gender, position, salary, company, image } = props.employee;
+    const icon = <FontAwesomeIcon icon={faHeadphones} />
     return (
         <div className="employee-card">
+
             <div>
                 <img src={image} alt="" />
             </div>
@@ -20,7 +22,7 @@ const Employee = (props) => {
                 <p>Email: {email} </p>
                 <button
                     onClick={() => props.handleAddToCart(props.employee)}
-                    className="btn-regular">Hire Me</button>
+                    className="btn-regular">{icon} Hire Me</button>
                 <br />
 
 

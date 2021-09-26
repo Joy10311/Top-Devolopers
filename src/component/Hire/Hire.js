@@ -8,10 +8,12 @@ const Hire = (props) => {
         total = total + parseInt(employee.salary);
     }
 
+
+
     return (
+
         <div>
             <h2>Employee Hired: {props.hire.length} </h2>
-            <br />
             <h4>Total Cost: {total} </h4>
         </div>
     );
