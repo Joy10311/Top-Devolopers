@@ -1,7 +1,6 @@
 [
     {
         "company": "Y-fan",
-        "country": "Holy See (Vatican City State)",
         "email": "village@gmail.com",
         "gender": "female",
         "name": "Jennifer Sujan",
@@ -11,17 +10,15 @@
     },
     {
         "company": "Inbase",
-        "country": "Palau",
         "email": "gather95@hotmail.com",
         "gender": "male",
         "name": "James Robey",
-        "position": "Chief Communications Strategist",
+        "position": "Chief Strategist",
         "salary": "53000",
         "image": "https://image.freepik.com/free-photo/young-african-american-manager-with-stubble-sitting-front-open-laptop-wearing-earphones-while-having-video-conference-call-with-business-partners_231208-690.jpg"
     },
     {
         "company": "O-zatflex",
-        "country": "Wallis and Futuna",
         "email": "swim22@yahoo.com",
         "gender": "female",
         "name": "Elizabeth Linda",
@@ -31,7 +28,6 @@
     },
     {
         "company": "Singlesanholdings",
-        "country": "Gabon",
         "email": "soledad@outlook.com",
         "gender": "male",
         "name": "king Glitter",
@@ -41,7 +37,6 @@
     },
     {
         "company": "Xx-green",
-        "country": "Portugal",
         "email": "all32@yahoo.com",
         "gender": "female",
         "name": "Sunny Smoke",
@@ -51,7 +46,6 @@
     },
     {
         "company": "Zunredtaxon",
-        "country": "Kenya",
         "email": "eight_helene@gmail.com",
         "gender": "male",
         "name": "David William",
@@ -61,7 +55,6 @@
     },
     {
         "company": "Daltlottom",
-        "country": "Estonia",
         "email": "cost_dallas@outlook.com",
         "gender": "female",
         "name": "Barbara Susan",
@@ -71,27 +64,24 @@
     },
     {
         "company": "Big-it",
-        "country": "Cayman Islands",
         "email": "miss44@hotmail.com",
         "gender": "male",
-        "name": "Margaret Lisa",
+        "name": "Jhon Hisle",
         "position": "Future Functionality Producer",
         "salary": "58000",
         "image": "https://image.shutterstock.com/image-photo/friendly-businessman-wearing-glasses-sitting-260nw-157773962.jpg"
     },
     {
         "company": "Retrax",
-        "country": "Uzbekistan",
         "email": "tall@hotmail.com",
         "gender": "male",
-        "name": "Matthew Anthony",
+        "name": "Matt Anthony",
         "position": "Central Program Assistant",
         "salary": "530000",
         "image": "https://t4.ftcdn.net/jpg/02/83/78/05/360_F_283780554_R4LMAFp5sU5RpobugJjpUPR3tPcZ9CQQ.jpg"
     },
     {
         "company": "Zathzobam",
-        "country": "Faroe Islands",
         "email": "skin_gavin@yahoo.com",
         "gender": "female",
         "name": "Emily Donna",

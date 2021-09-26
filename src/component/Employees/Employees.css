@@ -14,3 +14,8 @@
     grid-row-gap: 10px;
 }
 
+.hire-container{
+    margin-left: 40px;
+    color: tomato;
+    font-weight: bold;
+}
