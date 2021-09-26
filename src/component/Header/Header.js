@@ -1,9 +1,12 @@
 import React from 'react';
+import './Header.css'
 
 const Header = () => {
     return (
-        <div>
-            <h2>Git Push</h2>
+        <div className="header">
+            <h1>Hired Top Class Devoloper</h1>
+            <p> Ideas are endless.We are ideas.Ideas are everywhere.</p>
+            <h2>Total Budget: 50 Million</h2>
         </div>
     );
 };
